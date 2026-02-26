@@ -33,8 +33,8 @@ My name is **Nedim Jugo**, and I'm a Software Engineer passionate about full-sta
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NedimJugo&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NedimJugo&layout=compact&theme=tokyonight&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats-nedimjugo3614-g94vb3cg.leapcell.dev?username=NedimJugo&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-nedimjugo3614-g94vb3cg.leapcell.dev/api/top-langs/?username=NedimJugo&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 
 ---
